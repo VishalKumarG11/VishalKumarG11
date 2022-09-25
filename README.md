@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vishal Kumar.
 - 👀 I’m interested in Web Development & Software Development
-- 🌱 I’m currently learning React.JS
+- 🌱 I’m currently learning UI/UX Design
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : vishal.gautam070@gmail.com
 
